@@ -3,7 +3,7 @@
 
 ###Tech stack:
 - React
-- Type script
+- TypeScript
 - SCSS
 - REST Api
 
