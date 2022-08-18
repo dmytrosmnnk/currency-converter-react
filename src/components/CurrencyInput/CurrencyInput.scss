@@ -1,0 +1,31 @@
+.CurrencyInput {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 5px;
+  background-color: #42b883;
+  border-radius: 10px;
+
+  &__input,
+  &__select {
+    padding: 0 10px;
+    background-color: #42b883;
+    color: #fff;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 500;
+    border: 1px solid #347474;
+    outline: none;
+
+    &:focus {
+      box-shadow: inset 0 0 5px #fff;
+    }
+  }
+
+  &__input {
+    border-radius: 10px 0 0 10px;
+  }
+
+  &__select {
+    border-radius: 0 10px 10px 0;
+  }
+}
