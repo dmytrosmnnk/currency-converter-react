@@ -1,9 +1,9 @@
 # Currency Converter
-##by Dmytro Semenenko
+## by Dmytro Semenenko
 
-###[Project link](https://dmytrosmnnk.github.io/currency-converter-react/)
+### [Project link](https://dmytrosmnnk.github.io/currency-converter-react/)
 
-###Tech stack:
+### Tech stack:
 - React
 - TypeScript
 - SCSS
